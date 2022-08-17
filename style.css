@@ -1,0 +1,498 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#section1 {
+    /* Rectangle 1 */
+
+    position: absolute;
+    width: 1540px;
+    left: 0px;
+    top: 0px;
+    height: 920px;
+    background: url(photos/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+nav {
+    position: relative;
+    width: 700px;
+    height: 53px;
+    left: 429px;
+    top: 29px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+#nav-links {
+    margin: 20px;
+    width: 549px;
+    height: 33px;
+    left: 446px;
+    top: 39px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+
+#im3 {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 227px;
+    top: 63px;
+}
+
+#hi {
+    /* Hi there, */
+
+    position: absolute;
+    width: 81px;
+    height: 24px;
+    left: 801px;
+    top: 197px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+#im {
+    /* I’m Ayush Goyal */
+    position: absolute;
+    width: 359px;
+    height: 48px;
+    left: 801px;
+    top: 239px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#web {
+    /* Web Developer & Graphics Designer */
+    position: absolute;
+    width: 350px;
+    height: 24px;
+    left: 801px;
+    top: 306px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#button1 {
+    /* Rectangle 7 */
+    position: absolute;
+    width: 215px;
+    height: 57px;
+    left: 801px;
+    top: 357px;
+    border: none;
+    background: #F4ECD9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    color: #12214A;
+}
+
+#about {
+    position: absolute;
+    width: 211px;
+    height: 63px;
+    left: 400px;
+    top: 950px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 63px;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#ayuu {
+    /* Hello! I’m Ayush Goyal. */
+    position: absolute;
+    width: 302px;
+    height: 29px;
+    left: 746px;
+    top: 900px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+
+}
+
+#p1 {
+    position: absolute;
+    width: 542px;
+    height: 144px;
+    left: 746px;
+    top: 950px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+#mys {
+
+    position: absolute;
+    width: 258px;
+    height: 63px;
+    left: 600px;
+    top: 1200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 63px;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#p3 {
+    position: relative;
+    justify-content: center;
+    width: 414px;
+    height: 24px;
+    left: 530px;
+    top: 1270px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+
+.box3 {
+    position: absolute;
+    width: 250px;
+    height: 333.33px;
+    top: 1340px;
+    filter: drop-shadow(0px 4px 24px #7069CF);
+    border-radius: 45px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+#fist {
+    left: 256px;
+}
+
+#seco {
+    left: 602px;
+}
+
+#third {
+    left: 948px;
+}
+
+.box4 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    top: 1423px;
+}
+
+#png11 {
+    left: 331px;
+}
+
+#png22 {
+    left: 677px;
+}
+
+#png33 {
+    left: 1023px;
+}
+
+.work {
+    position: absolute;
+    width: 200px;
+    height: 29px;
+    top: 1567px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#work1 {
+    left: 314px;
+}
+
+#work2 {
+    left: 639.5px;
+}
+
+#work3 {
+    left: 997.5px;
+}
+
+
+#Boxskill {
+    /* Rectangle 21 */
+
+
+    position: relative;
+    width: 1440px;
+    height: 801px;
+    left: 0px;
+    top: 1730px;
+
+    background: #FFFFFF;
+}
+
+#skillbox {
+
+    /* Rectangle 11 */
+
+
+    position: absolute;
+    width: 942px;
+    height: 548px;
+    left: 249px;
+    top: 1800px;
+}
+
+
+#skill {
+    /* My Skills */
+
+
+    position: absolute;
+    width: 187px;
+    height: 63px;
+    left: 627px;
+    top: 1888px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 63px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+.skill-box {
+
+
+    position: absolute;
+    width: 100px;
+    height: 26px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#html {
+    left: 400px;
+    top: 2000px;
+
+}
+
+#css {
+    left: 400px;
+    top: 2090px;
+}
+
+#JavaScript {
+    left: 400px;
+    top: 2180px;
+}
+
+#Figma {
+    left: 755px;
+    top: 2000px;
+}
+
+#Photoshop {
+    left: 755px;
+    top: 2090px;
+}
+
+#percent {
+
+    position: absolute;
+    width: 299px;
+    height: 10px;
+    left: 400px;
+    top: 2040px;
+
+}
+
+#container2 {
+    position: absolute;
+    width: 1540px;
+    height: 519px;
+    left: 3px;
+    top: 2584px;
+
+    background: url(photos/Rectangle\ 12.png);
+    filter: drop-shadow(0px -4px 26px #87A0DE);
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#ContactMe {
+    /* Contact Me */
+
+
+    position: absolute;
+    width: 249px;
+    height: 63px;
+    left: 630px;
+    top: 70px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 63px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+
+#intro {
+    /* Let’s talk how I can help you! */
+
+
+    position: absolute;
+    width: 370px;
+    height: 29px;
+    left: 577px;
+    top: 140px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+
+.desclass {
+
+    position: absolute;
+    width: 440px;
+    height: 48px;
+    left: 106px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+
+}
+
+#des {
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 400;
+    top: 245px;
+    color: #414141;
+
+}
+
+#mainn {
+    font-weight: 700;
+    font-size: 33px;
+    line-height: 40px;
+    top: 300px;
+    color: #000000;
+}
+
+#email {
+    font-weight: 550;
+    font-size: 20px;
+    line-height: 24px;
+    top: 340px;
+    color: #414141;
+}
+
+#phone {
+
+    font-weight: 550;
+    font-size: 20px;
+    line-height: 24px;
+    top: 366px;
+    color: #414141;
+}
+
+.socialicon{
+    position: relative;
+    width: 30px;
+    height: 30px;
+    top: 465px;
+}
+#insta{
+    left: 654px;
+}
+#git{
+    left: 708px;
+}
+#linke{
+    left: 762px;
+}
